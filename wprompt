@@ -1,0 +1,9 @@
+git:
+git add .
+git commit -m "Update Commit"
+git push -u origin main
+---
+
+tw:
+npx tailwindcss -i ./src/public/styles/config.css -o ./src/public/styles/main.css --watch
+---
