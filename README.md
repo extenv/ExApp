@@ -8,6 +8,8 @@ ExApp is a simple application using ExpressJS, EJS, Tailwindcss and MYSQL
 - Read Data User
 - Update Data User
 - Delete Data User
+- Search Data User
+- Pagination Data User
 
 ## Installation
 
