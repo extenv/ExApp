@@ -1,10 +1,13 @@
 # ExApp
 
-ExApp is a simple application designed to help users learn and practice programming concepts.
+ExApp is a simple application using ExpressJS, EJS, Tailwindcss and MYSQL
 
 ## Features
 
-- CRUE Mysql
+- Create Data user
+- Read Data User
+- Update Data User
+- Delete Data User
 
 ## Installation
 
